@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hey there, I'm Mousam<br>A curious mind and full stack web developer pursuing BTech in Computer Science & Engineering, passionate about crafting web applications that are not just functional, but smart.<br><br>🌐 I specialize in:<br><br>Building dynamic, responsive web applications with React for modern, interactive UIs<br><br>Developing robust backends using Python and Django<br><br>Designing scalable APIs and integrating real-time data solutions<br><br>🧠 Lately, I’ve been exploring how to make web applications smarter, experimenting with AI-powered features like:<br><br>Personalized content recommendations<br><br>Predictive analytics and insights<br><br>Context-aware user experiences<br><br>🚀 Currently diving deeper into Django REST Framework, Next.js, and CI/CD workflows, with a goal to bring more automation, intelligence, and polish to every project I build.
 
 
