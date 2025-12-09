@@ -3,9 +3,29 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=32&center=true&vCenter=true&width=500&height=65&duration=4200&pause=1800&lines=Hi+There!+👋;+I'm+Kumari+Mousam!;" />
 </h1>   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-A curious mind and full stack web developer pursuing BTech in Computer Science & Engineering, passionate about crafting web applications that are not just functional, but smart.<br><br>🌐 I specialize in:<br><br>Building dynamic, responsive web applications with React for modern, interactive UIs<br><br>Developing robust backends using Python and Django<br><br>Designing scalable APIs and integrating real-time data solutions<br><br>🧠 Lately, I’ve been exploring how to make web applications smarter, experimenting with AI-powered features like:<br><br>Personalized content recommendations<br><br>Predictive analytics and insights<br><br>Context-aware user experiences<br><br>🚀 Currently diving deeper into Django REST Framework, Next.js, and CI/CD workflows, with a goal to bring more automation, intelligence, and polish to every project I build.
 
- <img align="center" alt="Coding" width="140" hight="100" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🎓 Computer Science undergraduate at GGSIPU
+
+- 🌱 I'm currently learning **Django**
+
+- 💬 Ask me about Anything! I'm happy to help ✌️
+
+- ⚡ Fun Fact: Many of my projects are private! 🗝️💻
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="440" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+
+  
+  </td>
+</tr>
+</table>
+
  
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
