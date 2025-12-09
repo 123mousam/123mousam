@@ -29,7 +29,7 @@ A curious mind and full stack web developer pursuing BTech in Computer Science &
 ![](https://nirzak-streak-stats.vercel.app/?user=Mousam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mousam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mousam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
