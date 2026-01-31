@@ -15,7 +15,7 @@
 </p>
 
 <p>
-Building scalable solutions, learning modern frontend  backend systems, and preparing for software engineering roles.
+Building scalable solutions, learning modern frontend, backend systems, and preparing for software engineering roles.
 </p>
 
 </div>
