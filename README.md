@@ -55,7 +55,7 @@ Building scalable solutions, learning modern frontend, backend systems, and prep
 - Showcases projects, skills, and contact details  
 - Focused on clean UI and recruiter-friendly presentation  
 
-🔗 **Live:** https://mousam-mishra-intro.netlify.app/project
+🔗 **Live:** https://mousam-mishra-intro.netlify.app
 
 ---
 
